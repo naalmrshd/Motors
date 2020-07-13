@@ -5,6 +5,8 @@
  This folder includes different types of motors controlled via arduino:
  
   - DC Motor Control 
+  
+  - DC Motor Control with Relays
  
   - Servo Motor Control 
  
