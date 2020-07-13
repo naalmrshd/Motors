@@ -10,4 +10,4 @@
  
   - Stepper Motor Control 
  
-*Inside each folder you'll find the circuit connections and the arduino code using TinkerCad.
+*Inside each folder you will find the circuit connections and the arduino code using TinkerCad.
