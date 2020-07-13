@@ -1,13 +1,13 @@
 # Motors
  
- Different Types of Motors Controlled via Arduino.
  
- This folder includes:
  
- 1- DC motor control folder
+ This folder includes different types of motors controlled via arduino:
  
- 2- Servo motor control folder
+  - DC Motor Control 
  
- 3- Stepper motor control folder
+  - Servo Motor Control 
  
-*Inside each folder you'll find the circuit connections and arduino code.
+  - Stepper Motor Control 
+ 
+*Inside each folder you'll find the circuit connections and the arduino code using TinkerCad.
